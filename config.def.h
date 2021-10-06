@@ -11,8 +11,8 @@ static const int systraypinningfailfirst = 1;   /* 1: if pinning fails, display 
 static const int showsystray        = 1;     /* 0 means no systray */
 static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
-static const char *fonts[]          = { "JetBrainsMono Nerd Font:size=12" };
-static const char dmenufont[]       = "JetBrainsMono Nerd Font:size=12";
+static const char *fonts[]          = { "JetBrainsMono Nerd Font:size=8" };
+static const char dmenufont[]       = "JetBrainsMono Nerd Font:size=8";
 static const char col_gray1[]       = "#333333";
 static const char col_gray2[]       = "#444444";
 static const char col_gray3[]       = "#919395";
@@ -25,7 +25,7 @@ static const char *colors[][3]      = {
 };
 
 /* tagging */
-static const char *tags[] = { "1:dev", "2:dev", "3:dev", "4", "5", "6:spotify", "7", "8:orga", "9:files" };
+static const char *tags[] = { "1:", "2:", "3:", "4:", "5:", "6:", "7:", "8:", "9:" };
 
 static const Rule rules[] = {
 	/* xprop(1):
