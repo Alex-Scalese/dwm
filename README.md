@@ -13,7 +13,7 @@ Further informations: [https://dwm.suckless.org/](https://dwm.suckless.org/)
 ### Need
 
 - [  ] [cyclelayouts](https://dwm.suckless.org/patches/cyclelayouts/)
-- [  ] [pertag](https://dwm.suckless.org/patches/pertag/)
+- [ x ] [pertag](https://dwm.suckless.org/patches/pertag/)
 - [  ] [statusallmons](https://dwm.suckless.org/patches/statusallmons/)
 - [  ] [warp](https://dwm.suckless.org/patches/warp/)
 - [  ] [actualfullscreen](https://dwm.suckless.org/patches/actualfullscreen/)
